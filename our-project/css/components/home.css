@@ -1,0 +1,9 @@
+.home{
+	background-color: white;
+	padding:50px;
+	border-radius:4px; 
+	text-align: justify;
+	align-items: center;
+	display: flex;
+	justify-content: space-around;
+}
